@@ -1,6 +1,25 @@
 # Fraud Detection Project
 
-This project implements a comprehensive machine learning pipeline for detecting fraudulent transactions using the IEEE-CIS Fraud Detection dataset.
+A university team project focused on detecting fraudulent transactions using machine learning and the IEEE-CIS Fraud Detection dataset.
+
+## Project Type
+
+University Team Project
+
+## My Contribution
+
+As a team member, I contributed to:
+
+- Exploratory Data Analysis (EDA)
+- Data preprocessing and cleaning
+- Feature engineering
+- Feature selection and dimensionality reduction
+- Machine learning model training and evaluation
+- Comparing different machine learning models
+
+## Team Project
+
+This project was developed collaboratively with university team members.
 
 ## Problem Statement
 
